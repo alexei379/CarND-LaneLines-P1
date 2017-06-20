@@ -28,6 +28,15 @@ In order to draw a single line on the left and right lanes, I:
 1. Plotted the resulting left and right lines on the input image.
 ![](./pipeline_demo/7_lines.jpg)
 
+### Test videos (YouTube links)
+#### solidWhiteRight
+[![solidWhiteRight](https://img.youtube.com/vi/MeZMUhBfaE4/0.jpg)](https://www.youtube.com/watch?v=MeZMUhBfaE4)
+#### solidYellowLeft 
+[![solidYellowLeft](https://img.youtube.com/vi/uB2K12sCnFU/0.jpg)](https://www.youtube.com/watch?v=uB2K12sCnFU)
+#### challenge 
+[![challenge](https://img.youtube.com/vi/GfPkLssyS4E/0.jpg)](https://www.youtube.com/watch?v=GfPkLssyS4E)
+
+
 ### Potential shortcomings with the pipeline
 
 * Might not work under different light conditions.
